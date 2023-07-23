@@ -1,0 +1,11 @@
+0 - understand data: do all countries have the same years, any missing data?
+
+
+1 - Create a scatter of life expectancy (x) vs GDP (y) for every country
+ - Start with one year per country
+ - seperate the years for each country with hue perhaps
+
+2 - Use linear regression to come up with an r value and slope for each countries scatter
+    - start with the one year
+    - loop to get it for all years
+    - analyze the r values and slopes - i.e. how linear are relationsips, and how strongly correlated
